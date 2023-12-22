@@ -24,7 +24,7 @@
 
 8. Tampilan Contoh TESTIMONI
 ![ContohTampilan](https://github.com/JovinkaAphelliaSalva/HarmonyGardens_006_015/assets/151487681/49558265-119c-4b8e-afc0-d5a08716dc1f)
-![Sambungan](https://github.com/JovinkaAphelliaSalva/HarmonyGardens_006_015/assets/151487681/ef1f8107-22fd-4474-9ea9-94d41777d52c)
+![Sambungan](https://github.com/JovinkaAphelliaSalva/HarmonyGardens_006_015/assets/151487681/f2c1fb13-1435-44ed-bb96-6b55beb95273)
 
 9. Tampilan FOOTER
 ![FOOTER](https://github.com/JovinkaAphelliaSalva/HarmonyGardens_006_015/assets/151487681/6eaa4073-90f8-47b6-bf22-0f0f7985de9f)
