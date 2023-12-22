@@ -1,5 +1,9 @@
 # HarmonyGardens_006_015
 
+Harmony Gardens Harmony Gardens adalah sebuah proyek website toko bouquet dengan tema yang elegan dan estetik. Website Bouquet Harmony Gardens adalah proyek website yang bertujuan untuk menyajikan dan mempromosikan berbagai produk bouquet bunga yang indah dan berkualitas. Website ini menyediakan informasi tentang toko, produk-produk yang dijual, serta testimoni dari pelanggan yang telah membeli di Harmony Gardens.
+Website ini dirancang dengan tujuan memberikan pengalaman pengguna yang menyenangkan dan mudah dalam menjelajahi dan berinteraksi dengan berbagai fitur yang tersedia.
+fitur yang tersedia berupa:
+
 1. Tampilan LOGIN
 ![LOGIN](https://github.com/JovinkaAphelliaSalva/HarmonyGardens_006_015/assets/151487681/0883bdad-e4f4-498c-839f-06e48e8554ec)
 
